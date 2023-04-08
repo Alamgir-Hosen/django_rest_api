@@ -1,4 +1,4 @@
-# django_rest_api
+
 # API with Django rest framework
 
 ### run instructions
